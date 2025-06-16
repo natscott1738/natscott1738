@@ -1,7 +1,5 @@
 ## Hi there, I am Nathan Baraka👋
 
-<!--
-
 ## 📖 ** About Me **
 - 🔭 I’m currently working on backend development
 - **Role:** Backend Developer at SpaceYaTech
@@ -32,4 +30,3 @@ linked.com/in/nathan-baraka-professional
 ## 👀 ** Visitor Counter **
 ![Profile Views](https://komarev.com/ghpvc/?username=natscott1738&color=blue)
 
--->
