@@ -19,7 +19,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
  
  ## 🚀 Pinned Repos
- https://github.com/natscott1738/SMART_TASK_MANAGEMENT_SYSTEM
+[![Smart Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=natscott1738&repo=SMART_TASK_MANAGEMENT_SYSTEM&theme=radical)](https://github.com/natscott1738/SMART_TASK_MANAGEMENT_SYSTEM)  
+*A productivity application built with React, Tailwind CSS, NodeJS, ExpressJS and MongoDB*
 
 ## 📫 How to reach me:
 linked.com/in/nathan-baraka-professional
