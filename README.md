@@ -1,11 +1,11 @@
 # 👋 Hello there, I'm Nathan Baraka
 
 ### 💻 Backend Developer @SpaceYaTech | Django Specialist | Backend Enthusiast
-| **🚀 Building**  | Scalable backend architectures at SpaceYaTech                   |
+  **🚀 Building**  | Scalable backend architectures at SpaceYaTech                   
 
-| **📚 Learning**  | `DRF` best practices • `Microservices` • `Event-Driven Design`  |
+  **📚 Learning**  | `DRF` best practices • `Microservices` • `Event-Driven Design`  
 
-| **💎 Expertise** | REST APIs • Database Optimization • Python/Django Integration  |
+  **💎 Expertise** | REST APIs • Database Optimization • Python/Django Integration  
 
 ### 🤝 Collaboration & Fun  
 - **✨ Currently**: Working on a FinTech project with `Python/Django` integration  
