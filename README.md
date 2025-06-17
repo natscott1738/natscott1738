@@ -1,23 +1,18 @@
-### 💻 Backend Developer @SpaceYaTech | Django Specialist | FinTech Enthusiast
+# 👋 Hello there, I'm Nathan Baraka
+
+### 💻 Backend Developer @SpaceYaTech | Django Specialist | Backend Enthusiast
 | **🚀 Building**  | Scalable backend architectures at SpaceYaTech                   |
 
 | **📚 Learning**  | `DRF` best practices • `Microservices` • `Event-Driven Design`  |
 
-| **💎 Expertise** | REST APIs • Database Optimization • Payment Gateway Integration  |
+| **💎 Expertise** | REST APIs • Database Optimization • Python/Django Integration  |
 
 ### 🤝 Collaboration & Fun  
-- **✨ Seeking**: FinTech projects with `Python/Django` or `Blockchain` integrations  
+- **✨ Currently**: Working on a FinTech project with `Python/Django` integration  
 - **🎹 Hidden Talent**: Jazz piano (Miles Davis fanatic – *"So What" is my coding anthem*)  
 - **⚡ Quirk**: I refactor code to jazz playlists 🎶 → `docker-compose up --sync-with-coltrane`
-- 
-- 🔭 I’m currently working on backend development
-- Role: Backend Developer at SpaceYaTech
-- 🌱 I’m currently learning Django Rest Framework best practices
-- 👯 I’m looking to collaborate on a fintech project
-- 💬 Ask me about Django
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can play jazz on the piano
-
+- 
 ## 🔧 My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -34,7 +29,7 @@
 ## 📫 How to reach me:
 linked.com/in/nathan-baraka-professional
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=natscott1738&theme=blueberry&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
@@ -45,9 +40,10 @@ linked.com/in/nathan-baraka-professional
 
 </div>
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=natscott1738)](https://git.io/streak-stats)
-
 ## 👀 Visitor Counter
-![Profile Views](https://komarev.com/ghpvc/?username=natscott1738&color=blue)
+<div align="center">
 
+[![Visitors](https://komarev.com/ghpvc/?username=natscott1738&label=PROFILE+VIEWS&color=1e88e5&style=for-the-badge&logo=github)](https://github.com/natscott1738)  
+*Counting since: June 2024 • Updated in real-time*
+
+</div>
