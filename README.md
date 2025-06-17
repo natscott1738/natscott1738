@@ -1,6 +1,8 @@
 ### 💻 Backend Developer @SpaceYaTech | Django Specialist | FinTech Enthusiast
 | **🚀 Building**  | Scalable backend architectures at SpaceYaTech                   |
+
 | **📚 Learning**  | `DRF` best practices • `Microservices` • `Event-Driven Design`  |
+
 | **💎 Expertise** | REST APIs • Database Optimization • Payment Gateway Integration  |
 
 ### 🤝 Collaboration & Fun  
